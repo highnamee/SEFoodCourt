@@ -21,4 +21,5 @@ The report included in this repository, name Report.pdf
 Link video demo: https://youtu.be/OkQe-Xurlt8
 
 Link poster: https://drive.google.com/file/d/1_nG4EjVc0O0g-ZkfKo-aIPHy2REcpzNm/view?usp=sharing
+
 Video and poster maker: Vo Hoang Hai Nam
